@@ -1,0 +1,6 @@
+Timestamp,UserId,EventType,Device,Location
+2025-07-01T08:00:00,U101,Login,Laptop,Office
+2025-07-01T08:05:00,U102,Login,Desktop,Remote
+2025-07-01T08:10:00,U101,FileAccess,Laptop,Office
+2025-07-01T08:15:00,U103,Login,Tablet,Cafe
+2025-07-01T08:20:00,U102,FileAccess,Desktop,Remote

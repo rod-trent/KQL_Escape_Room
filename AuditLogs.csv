@@ -1,0 +1,4 @@
+Timestamp,UserId,EventType,Device,Action
+2025-07-01T08:02:00,U201,AdminLogin,Laptop,Config
+2025-07-01T08:12:00,U202,AdminLogin,Desktop,Update
+2025-07-01T08:18:00,U201,AdminAction,Laptop,Delete
