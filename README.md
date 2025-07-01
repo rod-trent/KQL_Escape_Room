@@ -1,6 +1,6 @@
 # KQL Escape Room Datasets
 
-This repository contains the datasets for the *KQL Escape Room: Break Out with Your Query Skills* blog post. The datasets, `SecurityLogs` and `AuditLogs`, are designed for practicing Kusto Query Language (KQL) in a virtual escape room challenge. Below are instructions to set up and use the datasets to solve the KQL puzzles.
+This repository contains the datasets for the [*KQL Escape Room: Break Out with Your Query Skills*](https://rodtrent.substack.com/p/kql-escape-room-break-out-with-your) blog post. The datasets, `SecurityLogs` and `AuditLogs`, are designed for practicing Kusto Query Language (KQL) in a virtual escape room challenge. Below are instructions to set up and use the datasets to solve the KQL puzzles.
 
 ## Datasets Overview
 
@@ -113,7 +113,7 @@ Both datasets are provided as CSV files and KQL ingestion commands for use in Az
 
 ## Using the Datasets
 
-- Follow the *KQL Escape Room* blog post to solve three stages:
+- Follow the [*KQL Escape Room* blog post](https://rodtrent.substack.com/p/kql-escape-room-break-out-with-your) to solve three stages:
   1. **Stage 1**: Use `let` to define variables (e.g., filter `SecurityLogs` for "Office" logins).
   2. **Stage 2**: Use `union` to combine `SecurityLogs` and `AuditLogs` (e.g., find "Laptop" events).
   3. **Stage 3**: Use `summarize` to aggregate data (e.g., count events per user).
